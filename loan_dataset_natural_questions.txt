@@ -1,0 +1,156 @@
+Show me the top 10 loan defaulters with high loan amounts
+What is the average credit score of borrowers who defaulted in the last 2years
+Compare loan default rates across different income groups
+Which age group has the highest loan approval rate?
+What is the average loan amount for self-employed borrowers?
+What percentage of borrowers with an annual income below ₹50,000 have defaulted?
+What is the most common purpose of loans among borrowers with high credit scores?
+How does marital status affect the likelihood of loan approval?
+Which employment status group has the highest rate of loan defaults?
+What is the distribution of credit scores for borrowers with an approved loan?
+Which education level has the lowest average loan default rate?
+How does homeownership status influence loan approval rates?
+What is the average loan amount for borrowers with more than 2 dependents?
+Which group (age, income, or experience) has the highest debt-to-income ratio?
+What is the average risk score of borrowers with defaulted loans?
+How does the loan default rate change based on the length of credit history?
+What is the correlation between monthly debt payments and credit card utilization rate?
+Which loan purpose category has the highest rate of defaults?
+What is the average loan duration for approved and rejected loans?
+How does the rate of previous loan defaults impact loan approval?
+What is the average age of applicants?
+How many people are married?
+Are most applicants single or married?
+What's the most common education level?
+Who has the most experience?
+Show applicants who are above 50 years old.
+Are there any applicants with a doctorate?
+How many dependents do most people have?
+Who is the youngest applicant?
+How old are the oldest applicants?
+How many people are self-employed?
+What’s the average annual income?
+Who earns more than 100,000 per year?
+How many people are unemployed?
+What's the highest monthly income?
+Show applicants with job tenure over 10 years.
+Who has job tenure less than 2 years?
+What’s the most common employment status?
+Do employed people earn more than self-employed?
+Are job tenure and monthly income related?
+Who has a credit score below 500?
+What’s the average credit score?
+How many people have excellent credit?
+What’s the highest number of credit lines?
+Who has more than 5 credit inquiries?
+Who has a low credit utilization rate?
+Show people with bankruptcy history.
+Are credit scores higher for homeowners?
+What’s the most common credit score range?
+What’s the average length of credit history?
+How much is the average loan amount?
+Who got the highest loan?
+Which loans were for more than 50,000?
+What’s the typical loan duration?
+How many loans are 60 months long?
+What is the most common loan purpose?
+Who defaulted on previous loans?
+Are defaults common?
+How many loans were approved?
+What percent of loans are approved?
+What’s the average debt-to-income ratio?
+Who has a debt ratio over 1?
+Are high debt ratios linked to loan rejection?
+Who has the highest net worth?
+What’s the average net worth?
+Who has zero net worth?
+Show people with high monthly debt payments.
+Who pays over 1000 monthly on loans?
+Are higher incomes linked to lower interest?
+What is the total debt-to-income ratio distribution?
+What’s the average savings account balance?
+Who has no savings?
+What’s the typical checking account balance?
+Are checking balances higher than savings?
+Who has both high savings and high income?
+How many people have total liabilities over 100k?
+Who has total assets above 500k?
+Who has more liabilities than assets?
+Are liabilities linked to credit score?
+What’s the average monthly loan payment?
+What’s the average interest rate?
+Who has the highest interest rate?
+Are interest rates higher for people with defaults?
+What is the base interest rate trend?
+What’s the interest difference between approved and rejected loans?
+Who was approved?
+Who was rejected?
+What’s the approval rate?
+Is age affecting approval?
+Are single people more likely to be approved?
+Are loans with higher durations approved more?
+Are loans for education approved often?
+Do people with bankruptcies get loans?
+How often are loans rejected for low credit?
+What’s the credit score range for approved loans?
+What’s the average risk score?
+Who has the lowest risk score?
+Who has the highest risk score?
+Are high-risk people rejected?
+What risk score is typical for approved loans?
+How many loans were applied for in 2018?
+Was there a spike in January applications?
+Which day had most applications?
+How many applications per month?
+Show loans approved in the first week.
+Are approvals seasonal?
+Are most loans approved?
+Do older people get better interest rates?
+Do people with savings get loans easily?
+Are bankruptcies common?
+Are people with many dependents likely to be rejected?
+Do higher loan amounts mean higher risk?
+Is risk score correlated with interest rate?
+Are education levels linked to income?
+Do divorced applicants get approved?
+Do people with long job tenure get lower rates?
+Compare average income of approved vs rejected.
+Compare net worth of married vs single.
+Compare interest rate by loan purpose.
+Compare loan amount vs income.
+How many people took loans for education?
+Are education loans usually approved?
+What’s the risk score for education loans?
+What's the average amount for education loans?
+How many people took loans for home?
+Are home loans usually approved?
+What’s the risk score for home loans?
+What's the average amount for home loans?
+How many people took loans for car?
+Are car loans usually approved?
+What’s the risk score for car loans?
+What's the average amount for car loans?
+How many people took loans for medical?
+Are medical loans usually approved?
+What’s the risk score for medical loans?
+What's the average amount for medical loans?
+How many people took loans for business?
+Are business loans usually approved?
+What’s the risk score for business loans?
+What's the average amount for business loans?
+Who earns over 100k?
+Are people earning over 100k likely to be approved?
+Who earns under 30k?
+Are people earning under 30k likely to be approved?
+Who earns between 50k and 80k?
+Are people earning between 50k and 80k likely to be approved?
+Who is under 25?
+Are people under 25 likely to get loans?
+Who is over 60?
+Are people over 60 likely to get loans?
+Who is between 30 and 40?
+Are people between 30 and 40 likely to get loans?
+Who has credit scores below 600?
+Are credit scores below 600 likely to be approved?
+Who has credit scores above 750?
+Are credit scores above 750 likely to be approved?
